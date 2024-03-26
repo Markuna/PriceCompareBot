@@ -5,9 +5,11 @@ Comparing product prices using the ChatGPT4 API
 
 任务：
 
-⭕️ 集成 SpringAi https://spring.io/projects/spring-ai
+~~⭕️ 集成 SpringAi https://spring.io/projects/spring-ai~~
 
-⭕️ 集成ChatGPT-API https://platform.openai.com/docs/introduction
+~~⭕️ 集成ChatGPT-API https://platform.openai.com/docs/introduction~~
+
+⭕ 太贵没钱，换个能薅的 api
 
 ⭕️ 接入全网商品聚合查询API
 
